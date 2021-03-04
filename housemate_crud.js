@@ -27,7 +27,7 @@ const getNames = () => {
   clearUls();
   clearForm();
 
-  const loadNames = `<img class="image" src="https://previews.dropbox.com/p/thumb/ABECc8H53DdOZRyDOQv4oiPIWZ0RCHJZI7kYsw_yYPrPjw3uPnzFtWB9JxegUclKgIqfkatN22OiP29jLSkTU8wA9-51N6qsW0NMoSiF3BrMFaUZHZPetcpJOVSqvgEXUsoF9jzKm0_oMcWmtGbfTuJX-Qs6PzP4sHF3yL82wRzPCb97Mj3_uMaNrAMVH6yuo66sn_T3e40T7kkP6xKCR_63eWGNhg77hlMuSbBMWjnfU0C5q6dkiPDfGMNeRMB9JVXwo2fQtGGUtc51amPp7A_rRyxMJbs6MjA7xOU0u48Lxh5XmB0_Erp20r3J2Yn83l8AhJry2AJZ5X_ESqcBK_ooVDSGYQ2t20n30Ci_qXPqwLKgesiu754oRTAyhJLIhjo/p.png?fv_content=true&size_mode=5"  alt="load" ><img/>`;
+  const loadNames = `<img class="image" src="https://gdurl.com/lHVb"  alt="load" ><img/>`;
   main.innerHTML = loadNames;
 
   // const fetchApi = () => {
