@@ -135,3 +135,8 @@ div {
     transform: rotate(360deg);
   }
 }
+
+h2 {
+  color: #cccccc;
+  size: 23px;
+}

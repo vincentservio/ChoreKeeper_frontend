@@ -27,7 +27,9 @@ const getNames = () => {
   clearUls();
   clearForm();
 
-  const loadNames = `<img class="image" src="https://gdurl.com/lHVb"  alt="load" ><img/>`;
+  const loadNames = `<h2>
+  <img class="image" src="https://gdurl.com/lHVb"  alt="load" >
+  <img/><center> Our Servers Are On Break! </br>Please allow a few moments for our servers to respond </center></h2>`;
   main.innerHTML = loadNames;
 
   // const fetchApi = () => {
